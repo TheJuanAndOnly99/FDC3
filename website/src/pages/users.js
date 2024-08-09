@@ -34,7 +34,7 @@ export default (props) => {
         <div className="showcaseSection">
           <div className="prose">
             <h1>Who is Using FDC3?</h1>
-            <p>FDC3 has several industry-leading <a href="https://www.finos.org/become-a-member">member participants.</a></p>
+            <p>test ral industry-leading <a href="https://www.finos.org/become-a-member">member participants.</a></p>
           </div>
           <Showcase users={membersToShowcase} />
           {/* <div className="logos">{showcase}</div> */}
